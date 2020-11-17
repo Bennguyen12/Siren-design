@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:/EGB240/Assessment 1B/EGB240_Assessment1B_n10275355/Assignment1B/include",
+                "d:/EGB240/Assessment 1B/EGB240_Assessment1B_n10275355/Assignment1B/src",
+                "C:/Users/Ben/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/EGB240/Assessment 1B/EGB240_Assessment1B_n10275355/Assignment1B/include",
+                    "d:/EGB240/Assessment 1B/EGB240_Assessment1B_n10275355/Assignment1B/src",
+                    "C:/Users/Ben/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=16000000L",
+                "LAYOUT_US_ENGLISH",
+                "PLATFORMIO=50001",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO_TEENSY2",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Ben/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega32u4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
